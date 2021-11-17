@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# What is DAppNode?
+# ¿Qué es DAppNode?
 
-DAppNode is a simple [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) platform for deploying and hosting DApps, P2P clients and blockchain nodes. A censorship-resistant tool built to help bringing the decentralized world everyone wants for themselves, their friends and family.
+DAppNode es una simple plataforma [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) para desplegar y alojar DApps, clientes P2P y nodos blockchain. Una herramienta resistente a la censura diseñada para ayudar a traer el mundo descentralizado que todo el mundo quiere para sí mismo, sus amigos y su familia.
 
-For the user, DAppNode takes the shape of a platform, hosted in a machine that this person owns, that allows them to deploy Decentralized Apps and Blockchain Nodes in their own machine and access them directly via a decentralized protocol without using any centralized gateways or gatekeepers.
+Para el usuario, DAppNode toma la forma de una plataforma, alojada en una máquina que esta persona posee, que les permite desplegar aplicaciones descentralizadas y nodos Blockchain en su propia máquina y acceder directamente a ellos a través de un protocolo descentralizado sin usar ninguna pasarela o gatekeepers centralizados.
 
 - It has a DAppStore where the available Apps can be downloaded and installed in a couple of clicks
 
