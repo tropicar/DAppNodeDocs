@@ -2,24 +2,24 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Introducción
 
-Now you know what is DAppNode and want to know how you can engage with DAppNode. Firstly, you need to run DAppNode in a dedicated machine, that means you should use a machine only for dappnode.
+Ahora sabes lo que es DAppNode y quieres saber cómo puedes relacionarte con DAppNode. En primer lugar, necesita ejecutar DAppNode en una máquina dedicada, lo que significa que debe usar una máquina sólo para dappnode.
 
-DAppNode users have to understand that every package is unique and has its own requirements. Some packages need more disk space or use more the RAM than others.
+Los usuarios de DAppNode tienen que entender que cada paquete es único y tiene sus propios requisitos. Algunos paquetes necesitan más espacio en disco o más RAM que otros.
 
-As we said before, DAppNode is a open source project. You can see the source code and install it in your own machine. Where and how to run DAppNode?
+Como dijimos antes, DAppNode es un proyecto de código abierto. Puede ver el código fuente e instalarlo en su propia máquina. ¿Dónde y cómo ejecutar DAppNode?
 
 ## DAppNode Hardware
 
-If you are a non technical user, we recommend you buy a prebuilt DAppNode Hardware because it's easier. You don't have to worry about hardware specifications and manual installations. You only need to plug in and follow the instructions. You can get more information in the section [DAppNode Hardware](./dappnode-hardware/what-dappnode-we-should-select).
+Si usted es un usuario no técnico, le recomendamos que compre un DAppNode Hardware precompilado porque es más fácil. No tiene que preocuparse por las especificaciones de hardware y las instalaciones manuales. Solo tienes que conectarte y seguir las instrucciones. Puede obtener más información en la sección [DAppNode Hardware](./dappnode-hardware/what-dappnode-we-should-select).
 
-The objective of this product is make easier and reduce the need to use a terminal as much as possible. The main [advantage](./dappnode-hardware/advantages) is that you don't need to touch the terminal to access to your dappnode and its UI.
+El objetivo de este producto es facilitar y reducir la necesidad de utilizar un terminal tanto como sea posible. La ventaja principal de [](./dappnode-hardware/advantages) es que no necesitas tocar el terminal para acceder a tu dappnode y a su interfaz de usuario.
 
-## Custom Hardware
+## Hardware personalizado
 
-If you are a user who wants to run custom hardware, you can follow the guide on the section [Custom Hardware](./custom-hardware/hardware-recommendations). There you will find information about the different installation processes and hardware recomendations.
+Si usted es un usuario que quiere ejecutar hardware personalizado, puede seguir la guía en la sección [Hardware Personalizado](./custom-hardware/hardware-recommendations). Allí encontrará información sobre los diferentes procesos de instalación y recomendaciones de hardware.
 
-## ARM Hardware
+## Hardware ARM
 
-If you plan to use ARM hardware, the installation process is slighltly different. You can find the corresponding information on [ARM Hardware](./arm-hardware/hardware-recommendations).
+Si planea utilizar hardware ARM, el proceso de instalación es ligeramente diferente. Puede encontrar la información correspondiente en [ARM Hardware](./arm-hardware/hardware-recommendations).
