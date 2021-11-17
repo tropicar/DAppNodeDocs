@@ -1,25 +1,16 @@
 ---
-title: DAO
-description: DAO information
+slug: "/"
 ---
 
-# Governance
+# Bienvenido a la documentación de DAppNode
 
-### Token Addresses
+En esta documentación, podrá conocer DAppNode desde 0. Para entender en qué consiste el proyecto, ¿por qué es necesario instalar DAppNode y formar parte de esta lucha por la descentralización.
 
-- NODE Mainnet - [0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0](https://etherscan.io/address/0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0)
-- NODE xDai - [0xc60e38C6352875c051B481Cbe79Dd0383AdB7817](https://blockscout.com/xdai/mainnet/address/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/transactions)
+Esta documentación tiene 4 tipos de contenido dependiendo de lo que quieras aprender:
 
-### Mission & Membership
+- **Iniciación** : puede encontrar lo que necesita para ejecutar un DAppNode, recomendaciones de hardware o cómo obtener el hardware DAppNode. Además, el proceso de instalación para un hardware diferente.
+- **Guía de usuario**: este contenido es para el usuario de Dappnode, puedes encontrar los primeros pasos que debes seguir después de instalar DAppNode, una explicación de cada página de la interfaz, cómo pedir apoyo, solución de problemas y faqs.
+- **Desarrolladores**: si estás interesado en cómo construir un paquete para DAppNode, esta sección tiene información sobre cómo hacerlo. ¡Actualizaremos más guías y tutoriales en el futuro!
+- **Aprende**: Si eres un usuario técnico o no técnico, esta sección es para todos aquellos que quieran conocer algunos aspectos de cómo funciona DAppNode y algunas de sus tecnologías. De esta manera, la gente puede entender algunas circunstancias que ocurren en su DAppNode. Por ejemplo, propagación IPFS, VPN, qué hay detrás de la interfaz, etc.
 
-The DAppNode DAO will be an inclusive hub in which DAppNode’s community will carry on its mission to keep the web decentralized, uncensored and resilient. Active DAO members will have the opportunity to vote on DAppNode’s future projects and on how to expand its array of hardware and software solutions.
-
-To get involved in Governance, DAO aspirants will need to make contributions to the ecosystem and help kick-start the NODE economy. Those who provide liquidity in the sanctioned pools (Uniswap and Sushiswap) or commit NODE to Governance Staking on Ethereum Mainnet or xDai will be granted voting powers proportional to their contributions. This way we can ensure that those with a voice are also those with a stake, and are not merely speculating with the token.
-
-### Architecture
-
-DAppnode has tapped [Snapshot](https://snapshot.org/#/) technology to build its Governance structure. Snapshot is a novel piece of technology that allows off-chain voting for on-chain actions. It removes the prohibitive gas costs of participating in on-chain governance by taking snapshots of members’ NODE currently being staked. Voting and creating proposals with Snapshot is done with a simple crypto wallet signature, no gas needed.
-
-### DAO Projects
-
-The first DAppNode project post-launch will be the hotly awaited ValidatorDAO. You can read this [Medium article](https://medium.com/dappnode/guardians-of-ethereum-a-validator-dao-proposal-d82e76231b45) to learn more about how ValidatorDAO is poised to revolutionize the relationship between Validators and Nominators!
+Para usar DAppNode debe leer las secciones [Comenzar](./get-started/intro) y [Guía de usuario](./user-guide/overview). Si eres un desarrollador y estás interesado en construir paquetes deberías leer la sección de [Desarrolladores](./developers/overall). Por último, si eres una persona curiosa y quieres aprender cómo está DAppNode dentro, [Aprender](./learn/overall) es una sección para entender cómo funciona DAppNode y cómo utiliza algunas tecnologías.
