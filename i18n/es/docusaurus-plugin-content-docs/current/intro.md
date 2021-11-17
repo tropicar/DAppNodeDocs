@@ -2,15 +2,15 @@
 slug: "/"
 ---
 
-# Welcome to the DAppNode Documentation
+# Bienvenido a la documentación de DAppNode
 
-On this documentation, you will be able to know DAppNode from 0. To understand what the project consists of, why is it necessary to how to install your DAppNode and start this experience of fighting for decentralization.
+En esta documentación, podrá conocer DAppNode desde 0. Para entender en qué consiste el proyecto, ¿por qué es necesario instalar DAppNode y formar parte de esta lucha por la descentralización.
 
-This documentation has 4 types of content depending on what you want to do:
+Esta documentación tiene 4 tipos de contenido dependiendo de lo que quieras aprender:
 
-- **Get Started** : you can find what you need to run a DAppNode, hardware recommendations or how to get DAppNode hardware. Furthermore, the installation process for a different kind of hardware.
-- **User Guide**: this content is for Dappnode User, you can find the first steps you should follow after installing DAppNode, an explanation of every page of the interface, how to ask for support, troubleshooting and faqs.
-- **Developers**: if you are interested in how to build a package for DAppNode, this section has information on how to do it. We will update more guides and tutorials in the future!
-- **Learn**: Whether you are a technical or non-technical user, this section is for everybody who wants to know some aspects of how DAppNode works and some of its technologies. In this way, people can understand some circumstances that happen in his DAppNode. For example, IPFS propagation, VPN, what is there behind the interface, etc.
+- **Iniciación** : puede encontrar lo que necesita para ejecutar un DAppNode, recomendaciones de hardware o cómo obtener el hardware DAppNode. Además, el proceso de instalación para un hardware diferente.
+- **Guía de usuario**: este contenido es para el usuario de Dappnode, puedes encontrar los primeros pasos que debes seguir después de instalar DAppNode, una explicación de cada página de la interfaz, cómo pedir apoyo, solución de problemas y faqs.
+- **Desarrolladores**: si estás interesado en cómo construir un paquete para DAppNode, esta sección tiene información sobre cómo hacerlo. ¡Actualizaremos más guías y tutoriales en el futuro!
+- **Aprende**: Si eres un usuario técnico o no técnico, esta sección es para todos aquellos que quieran conocer algunos aspectos de cómo funciona DAppNode y algunas de sus tecnologías. De esta manera, la gente puede entender algunas circunstancias que ocurren en su DAppNode. Por ejemplo, propagación IPFS, VPN, qué hay detrás de la interfaz, etc.
 
-For using DAppNode you should read the [Get Started](./get-started/intro) and [User Guide](./user-guide/overview) sections. If you are a developer and you are interested in building packages you should read the [Developers](./developers/overall) section. Finally, if you are a curious person and want to learn how is DAppNode inside, [Learn](./learn/overall) is a section to understand how DAppNode works and how it uses some technologies.
+Para usar DAppNode debe leer las secciones [Comenzar](./get-started/intro) y [Guía de usuario](./user-guide/overview). Si eres un desarrollador y estás interesado en construir paquetes deberías leer la sección de [Desarrolladores](./developers/overall). Por último, si eres una persona curiosa y quieres aprender cómo está DAppNode dentro, [Aprender](./learn/overall) es una sección para entender cómo funciona DAppNode y cómo utiliza algunas tecnologías.
